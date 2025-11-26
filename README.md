@@ -149,7 +149,7 @@ No installer required.
 
 Just run:
 
-curl -fsSL https://raw.githubusercontent.com/YOURUSER/Pro_Hacker2_LITE/main/pro_hacker2_lite.sh -o pro_hacker2_lite.sh
+curl -fsSL https://raw.githubusercontent.com/xbustcodex/Pro_Hacker2_LITE/main/pro_hacker2_lite.sh -o pro_hacker2_lite.sh
 chmod +x pro_hacker2_lite.sh
 ./pro_hacker2_lite.sh
 
